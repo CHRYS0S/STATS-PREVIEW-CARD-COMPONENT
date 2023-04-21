@@ -89,6 +89,7 @@ body {
   margin-top: 80px;
   margin-right: -50px;
   color: var(--clr-neutral-paragraph);
+  letter-spacing: 0.2rem;
 }
 
 .companies {
