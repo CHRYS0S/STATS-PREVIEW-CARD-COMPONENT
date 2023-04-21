@@ -82,7 +82,7 @@ body {
 .stat {
   font-family: var(--ff-paragraph);
   text-transform: uppercase;
-  font-size: 0.9375rem;
+  font-size: 0.75rem;
   font-weight: var(--fw-regular);
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
